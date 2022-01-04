@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE02SHSM-SBD12-08-FDCHPA000-telemetered-fdchp_a_dcl_instrument
 last_request: '2022-01-04T19:28:36.237266Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSM-SBD12-08-FDCHPA000-telemetered-fdchp_a_dcl_instrument/main/history/response.json
-status: pending
+status: success
