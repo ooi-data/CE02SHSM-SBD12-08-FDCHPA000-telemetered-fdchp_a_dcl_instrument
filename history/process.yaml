@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-SBD12-08-FDCHPA000-telemetered-fdchp_a_dcl_instrument
 data_stream: CE02SHSM-SBD12-08-FDCHPA000-telemetered-fdchp_a_dcl_instrument
 end_date: '2021-10-06T11:20:03.744Z'
-last_updated: '2022-01-21T23:25:47.086205Z'
+last_updated: '2022-01-21T23:37:15.323811'
 start_date: '2015-04-02T21:20:44.230Z'
-status: pending
+status: success
